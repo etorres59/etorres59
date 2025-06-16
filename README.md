@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @etorres59
+- 👋 Hi, I’m ET
 - 👀 I’m interested in Audio, Video Games, and programming 
 - 🌱 I’m currently learning Java, HTML/CCS/Javascript, and Python
 - 💞️ I’m looking to collaborate on Audio Programs or Video games, or any other cool projects
