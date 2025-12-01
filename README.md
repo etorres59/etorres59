@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ET
--  I’m interested in Audio, Video Games, and programming 
+- 👋 Hi, I’m ET!
+-  I’m interested in Audio, Video Games, and Programming.
 -  My current stack is MERN, Java, SQL (MySQL/PostgreSQL/Oracle), and Python.
--  I’m looking to collaborate on Audio Programs or Video games, or any other cool projects
--  Reach me on Discord Van.k08
+-  I’m looking to collaborate on Audio Programs or Video Games, or any other cool projects.
+-  Reach me on Discord Van.k08.
 
 <!---
 etorres59/etorres59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
