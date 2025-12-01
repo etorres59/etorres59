@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ET
 -  I’m interested in Audio, Video Games, and programming 
--  My current stack is Java, HTML/CSS/JavaScript, and Python. Currently learning SQL (MySQL, PostgreSQL)
+-  My current stack is MERN, Java, and Python.
 -  I’m looking to collaborate on Audio Programs or Video games, or any other cool projects
 -  How to reach me on Discord Van.k08
 
